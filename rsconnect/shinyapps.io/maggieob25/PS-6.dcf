@@ -1,0 +1,14 @@
+name: PS-6
+title: PS-6
+username:
+account: maggieob25
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8472688
+bundleId: 6914201
+url: https://maggieob25.shinyapps.io/PS-6/
+when: 1677894883.66137
+lastSyncTime: 1677894883.66139
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
